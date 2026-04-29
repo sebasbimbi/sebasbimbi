@@ -2,7 +2,7 @@
 
 **Builder · Front-end engineer · AI-native workflow · Lima, Peru (US-aligned)**
 
-Co-founder of four companies. I ship in code (Next.js / TypeScript / Sanity / Drizzle) and in low-code (Webflow / Notion), and I architect every project as an interface for an AI agent — `CLAUDE.md`, codified design tokens, append-only migration journals. The result: I ship 3–5× what I shipped pre-2024 without sacrificing quality.
+Co-founder of four companies. I ship in code (Next.js / TypeScript / Convex / Drizzle / Sanity) and in low-code (Webflow / Notion), and I architect every project as an interface for an AI agent — `CLAUDE.md`, codified design tokens, append-only migration journals. The result: I ship 3–5× what I shipped pre-2024 without sacrificing quality.
 
 → Portfolio · **[portfolio.bimbi.co](https://portfolio.bimbi.co/)**
 → Reach · **[s@bimbi.co](mailto:s@bimbi.co)** · **[linkedin.com/in/sebasbimbi](https://www.linkedin.com/in/sebasbimbi/)**
@@ -12,9 +12,13 @@ Co-founder of four companies. I ship in code (Next.js / TypeScript / Sanity / Dr
 
 ### What I'm building
 
+- **[BugY](https://bugy.app)** — co-founder. Visual feedback & review platform for design teams, devs, and stakeholders. Multi-format review (websites · images · PDFs · videos · emails), real-time collaboration with live cursors and presence, pixel-diff design comparison with Figma import, live CSS / text editing with diff-capture, AI comment tools (summarize, translate, rewrite, categorize), Chrome extension with element anchoring + confidence scoring, Jira bidirectional sync, REST API v1, 5-tier billing.
+  Stack · `Next.js 15` · `React 19` · `TypeScript` · `Convex` · `Drizzle + Postgres` · `tRPC 11` · `PartyKit` · `Pusher` · `NextAuth v5` · `shadcn/ui` · `Tailwind 4` · `OpenAI` · `Polar` · `Sentry` · `PostHog` · `Playwright`.
+
 - **[SRC](https://src.mx)** — co-founder. Mexican polling & market research firm. Currently rebuilding the public site: Next.js 15 + Sanity (migrating from Webflow), Drizzle + Postgres, PostHog, Playwright E2E, full CSV → NDJSON → Sanity data migration. Shipped end-to-end with Claude Code as pair.
-- **BugY** — co-founder. Visual feedback for modern product teams.
+
 - **[nocode.lat](https://nocode.lat)** — co-founder. No-code education in Latin America.
+
 - **[bimbi.digital](https://bimbi.digital)** — founder. Web design & build studio.
 
 ### Selected public work
@@ -24,7 +28,7 @@ Co-founder of four companies. I ship in code (Next.js / TypeScript / Sanity / Dr
 
 ### Production stack
 
-`Next.js 15` · `React` · `TypeScript` · `Sanity` · `Drizzle + Postgres` · `Tailwind` · `Playwright` · `PostHog` · `Webflow` · `Notion` · `Vercel`
+`Next.js 15` · `React 19` · `TypeScript` · `Convex` · `Drizzle + Postgres` · `tRPC` · `Sanity` · `PartyKit` · `Pusher` · `Tailwind` · `shadcn/ui` · `Playwright` · `PostHog` · `Sentry` · `Webflow` · `Notion` · `Vercel`
 
 ### Recognition
 
