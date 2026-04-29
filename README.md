@@ -1,6 +1,6 @@
 # Sebastian Bimbi
 
-**Builder · Front-end engineer · AI-native workflow · Mexico City (US-aligned)**
+**Builder · Front-end engineer · AI-native workflow · Lima, Peru (US-aligned)**
 
 Co-founder of four companies. I ship in code (Next.js / TypeScript / Sanity / Drizzle) and in low-code (Webflow / Notion), and I architect every project as an interface for an AI agent — `CLAUDE.md`, codified design tokens, append-only migration journals. The result: I ship 3–5× what I shipped pre-2024 without sacrificing quality.
 
@@ -21,7 +21,6 @@ Co-founder of four companies. I ship in code (Next.js / TypeScript / Sanity / Dr
 
 - **[yachai](https://github.com/sebasbimbi/yachai)** — multi-agent AI system that designs differentiated lesson plans for one-room rural schools in Peru. Built in 8 hours at the EdHack / Aidea Education hackathon. Reduces a teacher's 5–6h/day planning load to under a minute per session.
 - **[sebastian-bimbi-portfolio](https://github.com/sebasbimbi/sebastian-bimbi-portfolio)** — source for [portfolio.bimbi.co](https://portfolio.bimbi.co/).
-- **[jamboree](https://github.com/sebasbimbi/jamboree)** · **[dsu-platinum](https://github.com/sebasbimbi/dsu-platinum)** · **[reno](https://github.com/sebasbimbi/reno)** — client + community work.
 
 ### Production stack
 
@@ -31,5 +30,6 @@ Co-founder of four companies. I ship in code (Next.js / TypeScript / Sanity / Dr
 
 - **Webflow Community MVP 2025** · Webflow Awards Winner
 - Ambassador — **Webflow** (2023) · **Notion** (2025) · **Favikon** (2025) · **Torc** (2025)
-- **Top 1% Mentor** — ADPList
+- **Top 1% Mentor in Front-End** — ADPList
+- **Top 50 Front-End Mentor** — ADPList
 - Featured in Google Knowledge Panel
