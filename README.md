@@ -36,5 +36,6 @@ Founder and co-founder behind four companies. I ship in code (Next.js / TypeScri
 - **Webflow Community MVP 2025** · Webflow Awards Winner
 - Ambassador — **Webflow** (2023) · **Notion** (2025) · **Favikon** (2025) · **Torc** (2025)
 - **Top 1% Mentor in Front-End** — ADPList
-- **Top 50 Front-End Mentor** — ADPList
+- **Top 50 Front-End Mentor** — ADPList · 2× (Dec 2025, Mar 2026)
+- **Top 100 Front-End Mentor** — ADPList · Sep 2025
 - Featured in Google Knowledge Panel
