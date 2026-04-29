@@ -15,7 +15,8 @@ Founder and co-founder behind four companies. I ship in code (Next.js / TypeScri
 - **[BugY](https://bugy.app)** — founder. Visual feedback & review platform for design teams, devs, and stakeholders. Multi-format review (websites · images · PDFs · videos · emails), real-time collaboration with live cursors and presence, pixel-diff design comparison with Figma import, live CSS / text editing with diff-capture, AI comment tools (summarize, translate, rewrite, categorize), Chrome extension with element anchoring + confidence scoring, Jira bidirectional sync, REST API v1, 5-tier billing.
   Stack · `Next.js 15` · `React 19` · `TypeScript` · `Convex` · `Drizzle + Postgres` · `tRPC 11` · `PartyKit` · `Pusher` · `NextAuth v5` · `shadcn/ui` · `Tailwind 4` · `OpenAI` · `Polar` · `Sentry` · `PostHog` · `Playwright`.
 
-- **[SRC](https://src.mx)** — co-founder. Mexican polling & market research firm. Currently rebuilding the public site: Next.js 15 + Sanity (migrating from Webflow), Drizzle + Postgres, PostHog, Playwright E2E, full CSV → NDJSON → Sanity data migration. Shipped end-to-end with Claude Code as pair.
+- **[SRC](https://src.mx)** — co-founder. Mexican polling & market research firm. Rebuilding the public site as an editorial, monochrome system inspired by The Economist: 2,500+ page SSG build, full Webflow → Sanity content migration (CSV → NDJSON → Sanity) with append-only migration journals, Drizzle + Postgres data layer for the Client Portal, GSAP + ScrollTrigger reveals gated on `prefers-reduced-motion`, Lenis smooth scroll, LFPDPPP-compliant consent-gated analytics, Highcharts + map-collection for electoral visualizations. Shipped end-to-end with Claude Code as pair.
+  Stack · `Next.js 15` · `React 19` · `TypeScript` · `Tailwind 4` · `Sanity` · `Drizzle + Postgres` · `tRPC 11` · `NextAuth v5` · `GSAP + ScrollTrigger` · `Lenis` · `Highcharts` · `PostHog` · `Microsoft Clarity` · `Upstash Redis` · `Zod` · `Playwright`.
 
 - **[nocode.lat](https://nocode.lat)** — co-founder. No-code education in Latin America.
 
@@ -28,7 +29,7 @@ Founder and co-founder behind four companies. I ship in code (Next.js / TypeScri
 
 ### Production stack
 
-`Next.js 15` · `React 19` · `TypeScript` · `Convex` · `Drizzle + Postgres` · `tRPC` · `Sanity` · `PartyKit` · `Pusher` · `Tailwind` · `shadcn/ui` · `Playwright` · `PostHog` · `Sentry` · `Webflow` · `Notion` · `Vercel`
+`Next.js 15` · `React 19` · `TypeScript` · `Convex` · `Drizzle + Postgres` · `tRPC 11` · `Sanity` · `PartyKit` · `Pusher` · `Tailwind 4` · `shadcn/ui` · `GSAP` · `Lenis` · `Highcharts` · `Playwright` · `PostHog` · `Sentry` · `Webflow` · `Notion` · `Vercel`
 
 ### Recognition
 
