@@ -1,8 +1,8 @@
 # Sebastian Bimbi
 
-**Senior front-end engineer · AI-native workflow · Mexico City (US-aligned)**
+**Builder · Front-end engineer · AI-native workflow · Mexico City (US-aligned)**
 
-I ship production Next.js / TypeScript with Claude Code as my engineering partner. Every repo I touch is structured as an interface for an agent — `CLAUDE.md`, codified design tokens, append-only migration journals, schema validation as a first-class artifact. The result: I ship 3–5× what I shipped pre-2024 without sacrificing quality.
+Co-founder of four companies. I ship in code (Next.js / TypeScript / Sanity / Drizzle) and in low-code (Webflow / Notion), and I architect every project as an interface for an AI agent — `CLAUDE.md`, codified design tokens, append-only migration journals. The result: I ship 3–5× what I shipped pre-2024 without sacrificing quality.
 
 → Portfolio · **[portfolio.bimbi.co](https://portfolio.bimbi.co/)**
 → Reach · **[s@bimbi.co](mailto:s@bimbi.co)** · **[linkedin.com/in/sebasbimbi](https://www.linkedin.com/in/sebasbimbi/)**
@@ -10,24 +10,22 @@ I ship production Next.js / TypeScript with Claude Code as my engineering partne
 
 ---
 
-### Currently building
+### What I'm building
 
-- **[SRC](https://src.mx)** — co-founder. Mexican polling & market research firm. Rebuilding the public site: Next.js 15 + Sanity (migrated from Webflow), Drizzle + Postgres, PostHog, Playwright E2E, full CSV → NDJSON → Sanity data migration.
+- **[SRC](https://src.mx)** — co-founder. Mexican polling & market research firm. Currently rebuilding the public site: Next.js 15 + Sanity (migrating from Webflow), Drizzle + Postgres, PostHog, Playwright E2E, full CSV → NDJSON → Sanity data migration. Shipped end-to-end with Claude Code as pair.
 - **BugY** — co-founder. Visual feedback for modern product teams.
 - **[nocode.lat](https://nocode.lat)** — co-founder. No-code education in Latin America.
 - **[bimbi.digital](https://bimbi.digital)** — founder. Web design & build studio.
 
-### How I work with AI
+### Selected public work
 
-Not autocomplete. The repo *is* the interface — `CLAUDE.md` orients, `DESIGN.json` codifies tokens, migration logs are append-only NDJSON, schema validation reports ship with the schema. Public artifacts:
-
-- **[claude-code-config](https://github.com/sebasbimbi/claude-code-config)** — my full Claude Code setup: rules, hooks, agents, skills, slash commands
-- **[planning-with-files](https://github.com/sebasbimbi/planning-with-files)** — Claude Code skill implementing Manus-style persistent markdown planning
-- **[claudeskill-loki-mode](https://github.com/sebasbimbi/claudeskill-loki-mode)** — multi-agent autonomous startup system for Claude Code
+- **[yachai](https://github.com/sebasbimbi/yachai)** — multi-agent AI system that designs differentiated lesson plans for one-room rural schools in Peru. Built in 8 hours at the EdHack / Aidea Education hackathon. Reduces a teacher's 5–6h/day planning load to under a minute per session.
+- **[sebastian-bimbi-portfolio](https://github.com/sebasbimbi/sebastian-bimbi-portfolio)** — source for [portfolio.bimbi.co](https://portfolio.bimbi.co/).
+- **[jamboree](https://github.com/sebasbimbi/jamboree)** · **[dsu-platinum](https://github.com/sebasbimbi/dsu-platinum)** · **[reno](https://github.com/sebasbimbi/reno)** — client + community work.
 
 ### Production stack
 
-`Next.js 15` · `React` · `TypeScript` · `Sanity` · `Drizzle + Postgres` · `Tailwind` · `Playwright` · `PostHog` · `Webflow` · `Vercel`
+`Next.js 15` · `React` · `TypeScript` · `Sanity` · `Drizzle + Postgres` · `Tailwind` · `Playwright` · `PostHog` · `Webflow` · `Notion` · `Vercel`
 
 ### Recognition
 
