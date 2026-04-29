@@ -29,7 +29,7 @@ Founder and co-founder behind four companies. I ship in code (Next.js / TypeScri
 
 ### Production stack
 
-`Next.js 15` · `React 19` · `TypeScript` · `Convex` · `Drizzle + Postgres` · `tRPC 11` · `Sanity` · `PartyKit` · `Pusher` · `Tailwind 4` · `shadcn/ui` · `GSAP` · `Lenis` · `Highcharts` · `Playwright` · `PostHog` · `Sentry` · `Webflow` · `Notion` · `Vercel`
+`Next.js 15` · `React 19` · `TypeScript` · `Convex` · `Drizzle + Postgres` · `tRPC 11` · `Sanity` · `PartyKit` · `Pusher` · `Tailwind 4` · `shadcn/ui` · `GSAP` · `Lenis` · `Highcharts` · `Playwright` · `PostHog` · `Sentry` · `Webflow` · `Notion` · `Vercel` · `Claude Code`
 
 ### Recognition
 
