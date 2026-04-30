@@ -28,6 +28,7 @@ Also operating · **[nocode.lat](https://nocode.lat)** (co-founder, no-code educ
 
 ### 02 · Selected public work
 
+- **[Liquid](https://github.com/sebasbimbi/liquid)** — Obsidian theme inspired by macOS Tahoe Liquid Glass. Forest-green accent on hue 146°, one-CSS-variable retheme, 48 backdrop-filter surfaces, WCAG AA in both light and dark, honors `prefers-reduced-motion` + `prefers-reduced-transparency`. Designed iteratively with Claude as design pair across 50+ audit → critique → polish cycles. Submitted to Obsidian's community-themes directory.
 - **[yachai](https://github.com/sebasbimbi/yachai)** — multi-agent AI system that designs differentiated lesson plans for one-room rural schools in Peru. Built in 8 hours at the EdHack / Aidea Education hackathon. Reduces a teacher's 5–6h/day planning load to under a minute per session.
 - **[sebastian-bimbi-portfolio](https://github.com/sebasbimbi/sebastian-bimbi-portfolio)** — source for [portfolio.bimbi.co](https://portfolio.bimbi.co/).
 
